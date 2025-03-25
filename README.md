@@ -7,6 +7,14 @@ creator : @xeodmg (aka bluzad aka nj)
 download link :
 https://github.com/bluzad/game/releases/download/game/My.Boyfriend.by.nj.aka.@xeodmg.zip
 
+how to setup this game? (windows)
+1. download the game                  1. скачайте игрулю
+2. unzip this archive                 2. распакуйте архив с игрулей
+3. launch the myboyfriend.exe         3. запустите игру (myboyfriend.exe)
+
+
+
+   
 
 
 
