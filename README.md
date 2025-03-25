@@ -5,6 +5,7 @@ a game about love, inspired by "Your Boyfriend" game
 creator : @xeodmg (aka bluzad aka nj)
 
 download link :
+https://github.com/bluzad/game/releases/download/game/My.Boyfriend.by.nj.aka.@xeodmg.zip
 
 
 
